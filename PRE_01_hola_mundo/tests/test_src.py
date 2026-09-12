@@ -4,7 +4,7 @@ from ..src.pregunta_02 import pregunta_02
 
 def test_01():
     """Test 01"""
-    assert pregunta_01() == "Hola mundo cruel!"
+    assert pregunta_01() == 'Hola mundo cruel!'
 
 
 def test_02():
